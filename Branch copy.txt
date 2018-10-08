@@ -1,3 +1,7 @@
 Hello
 welcome
 to ranch
+
+Go be happy and enjoy
+
+Integrate with eclipse_git_jenkins
